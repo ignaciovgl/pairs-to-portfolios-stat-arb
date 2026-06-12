@@ -26,7 +26,7 @@ This paper deconstructs the mathematical foundations of mean-reverting portfolio
 ## 📂 Repository Structure
 
 * `paper/`
-  * [`From_Pairs_to_Portfolios__A_Guide_to_Cointegration_and_Statistical_Arbitrage.pdf`](From_Pairs_to_Portfolios__A_Guide_to_Cointegration_and_Statistical_Arbitrage%20(1).pdf) - *The full publication.*
+  * [`From_Pairs_to_Portfolios__A_Guide_to_Cointegration_and_Statistical_Arbitrage.pdf`](From_Pairs_to_Portfolios_A_Guide_to_Cointegration_and_Statistical_Arbitrage%20.pdf) - *The full publication.*
 * `src/` *(Optional: Add your implementation code here)*
   * `stationarity_tests.py` - *Scripts for ADF and Johansen tests.*
   * `vecm_modeling.py` - *Matrix operations and VECM implementation.*
